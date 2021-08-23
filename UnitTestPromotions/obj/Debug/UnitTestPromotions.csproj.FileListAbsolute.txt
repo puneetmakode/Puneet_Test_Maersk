@@ -1,0 +1,16 @@
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\UnitTestPromotions.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\UnitTestPromotions.pdb
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\CustomPromotionEngine.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\CustomPromotionEngine.pdb
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pmakode\source\repos\UnitTestPromotions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pmakode\source\repos\UnitTestPromotions\obj\Debug\UnitTestPromotions.csprojAssemblyReference.cache
+C:\Users\pmakode\source\repos\UnitTestPromotions\obj\Debug\UnitTestPromotions.csproj.CoreCompileInputs.cache
+C:\Users\pmakode\source\repos\UnitTestPromotions\obj\Debug\UnitTestPromotions.csproj.CopyComplete
+C:\Users\pmakode\source\repos\UnitTestPromotions\obj\Debug\UnitTestPromotions.dll
+C:\Users\pmakode\source\repos\UnitTestPromotions\obj\Debug\UnitTestPromotions.pdb

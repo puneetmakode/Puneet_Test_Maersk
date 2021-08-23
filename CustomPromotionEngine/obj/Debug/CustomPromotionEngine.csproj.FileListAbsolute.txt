@@ -1,0 +1,6 @@
+C:\Users\pmakode\source\repos\CustomPromotionEngine\bin\Debug\CustomPromotionEngine.dll
+C:\Users\pmakode\source\repos\CustomPromotionEngine\bin\Debug\CustomPromotionEngine.pdb
+C:\Users\pmakode\source\repos\CustomPromotionEngine\obj\Debug\CustomPromotionEngine.csprojAssemblyReference.cache
+C:\Users\pmakode\source\repos\CustomPromotionEngine\obj\Debug\CustomPromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\pmakode\source\repos\CustomPromotionEngine\obj\Debug\CustomPromotionEngine.dll
+C:\Users\pmakode\source\repos\CustomPromotionEngine\obj\Debug\CustomPromotionEngine.pdb
